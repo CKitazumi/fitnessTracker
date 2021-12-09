@@ -25,4 +25,4 @@ The user should be able to:
 ## Demo:
 [fitnesstrackerDemo](./public/assets/images/fitnesstrackerDemo.gif)
 
-Deployed Link:
+Deployed Link: https://ck-fitness-tracker.herokuapp.com/
